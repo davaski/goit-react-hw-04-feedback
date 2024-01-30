@@ -1,4 +1,3 @@
-import { Component } from 'react';
 import { SectionContainer } from './Section/Section.styled';
 import { Section } from './Section/Section';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
